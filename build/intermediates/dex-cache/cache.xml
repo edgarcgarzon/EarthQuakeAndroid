@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/edgarcgarzon/.android/build-cache/5cdfa6dc4fccf0dfbf1253a98b96f989fa640fc5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/media/edgarcgarzon/Data/AndroidProjects/Project/ud843-QuakeReport-starting-point/app/build/intermediates/pre-dexed/debug/classes_2ff02ee4ec92287fb2562bd72dd73e9a38b672bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/edgarcgarzon/.android/build-cache/e2c3036e67628fe314fb324e0bf05a52a8e066fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/media/edgarcgarzon/Data/AndroidProjects/Project/ud843-QuakeReport-starting-point/app/build/intermediates/pre-dexed/debug/classes_e112d346ff46150a36ac24a4e14ba5470695376d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/edgarcgarzon/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/media/edgarcgarzon/Data/AndroidProjects/Project/ud843-QuakeReport-starting-point/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_5489c13a16b17ebe0f8358bf5bcf522310d20e45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/edgarcgarzon/.android/build-cache/e7cd4cca6801cac68c7f1e3c37a49bbce79e1ea8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/media/edgarcgarzon/Data/AndroidProjects/Project/ud843-QuakeReport-starting-point/app/build/intermediates/pre-dexed/debug/classes_47a1a8368a7c0ad171fcb91045a39bba2e73ad3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/edgarcgarzon/.android/build-cache/ad2e1217f6441106011c191d7f06ce9b6b1003ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/media/edgarcgarzon/Data/AndroidProjects/Project/ud843-QuakeReport-starting-point/app/build/intermediates/pre-dexed/debug/classes_6099b4a52da495e66c84ce36815fd98941974545.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/edgarcgarzon/.android/build-cache/e2c3036e67628fe314fb324e0bf05a52a8e066fb/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/media/edgarcgarzon/Data/AndroidProjects/Project/ud843-QuakeReport-starting-point/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_75d53e2d26e8d7978cbc79d259f8f851af8040fd.jar" />
+    </item>
+
+</items>
